@@ -4,12 +4,12 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
-  - /about
+  - /awards
 ---
 
 {% include base_path %}
 
-Award
+Awards
 ======
 *   Prize for Best Presentation in the Environmental Engineering Core Skills Module, 2023
 *   The UK Government’s Commonwealth Shared Scholarship, 2023
