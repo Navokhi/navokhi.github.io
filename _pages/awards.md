@@ -4,9 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
-  - /awards
+  - /resume
 ---
-
 {% include base_path %}
 
 Awards
