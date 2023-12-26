@@ -17,7 +17,19 @@ In 2022, Alfred was selected as one of the 2000 pioneer fellows of the Nigeria J
 
 News
 ======
+2023-10:      Excited to be a memeber of the Institute of Water, UK.
 
 2023-09:      Thrilled to have started a Master’s program at Newcastle University.
 
-2023-07:      Exicted to have been awarded the UK Commonwealth Shared Scholarship
+2023-07:      Exicted to have been awarded the UK Commonwealth Shared Scholarship.
+
+
+
+Awards
+======
+*   Prize for Best Presentation in the Environmental Engineering Core Skills Module, 2023
+*   The UK Government’s Commonwealth Shared Scholarship, 2023
+*   Ganted a fully funded scholarship of over 44,844 GBP for an MSc in Environmental Engineering tenable at Newcastle University for the 2023/2024   academic year.
+*   University of Bristol’s Think Big Scholarship, 2023 (Declined)
+*   Nigeria Jubilee Fellowship Programme, 2022
+*   Department of Chemistry’s Prize for Best Graduating Student, 2019
